@@ -3,12 +3,14 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](https://microsoft.github.io/codeofconduct/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 **The Problem**
+
 ParkingSlot aims to solve daily frustrating problems of motorist in Singapore. 
 1. Lack of packing space
 2. Not sure about parking rates
 3. Troublesome to calculate the total charges that will be incurred
 
 **Solution**
+
 ParkingSlot is designed as a progressive web application that can be run on any Desktop, Android and iOS devices where it serves as a one-stop portal for carpark rates and availability information.
 
 ![Web app Preview](https://github.com/JiaweiTan/CZ2006-SWEN-Parking-Slot/blob/master/preview.png?raw=true)
