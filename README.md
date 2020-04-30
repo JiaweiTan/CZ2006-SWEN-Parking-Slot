@@ -2,7 +2,7 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](https://microsoft.github.io/codeofconduct/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-***The Problem***
+**The Problem**
 ParkingSlot aims to solve daily frustrating problems of motorist in Singapore. 
 1. Lack of packing space
 2. Not sure about parking rates
